@@ -1,1 +1,1 @@
-My fisrt git task in new ubuntu
+My first git task (whatever you want to write shaa)
